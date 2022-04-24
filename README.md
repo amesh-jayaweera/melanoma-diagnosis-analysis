@@ -1,1 +1,1 @@
-# melanoma-diagnosis-analysis
+# Melanoma Diagnosis Analysis
