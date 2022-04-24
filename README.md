@@ -1,3 +1,12 @@
+[Melanoma Diagnosis Analysis](https://github.com/amesh-jayaweera/melanoma-diagnosis-analysis)
+    
+[Melanoma Detection API](https://github.com/amesh-jayaweera/melanoma-detection-api)
+    
+[Melanoma Detection Tool](https://github.com/amesh-jayaweera/melanoma-detection-tool)
+    
+[Melanoma Detection Website](https://melanoma-detection-tool.vercel.app/)
+    
+
 ![Page 01](slides/1.svg)
 ![Page 02](slides/2.svg)
 ![Page 03](slides/3.svg)
